@@ -1,0 +1,36 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.main_border{
+    border:1px solid black;
+    border-radius: 15px;
+}
+
+
+
+.top{
+    min-height: 100px;
+    background-color: cadetblue;
+}
+
+.centro{
+    min-height: 100px;
+    background-color: darkgoldenrod;
+}
+
+.izquierda{
+    min-height: 100px;
+    background-color: chartreuse;
+}
+
+.derecha{
+    min-height: 100px;
+    background-color: darkkhaki;
+}
+
+.bottom{
+    min-height: 100px;  
+    background-color: darksalmon;
+}
